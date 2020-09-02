@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageHeader>
+    <MessageStatusCode>INITIAL</MessageStatusCode>
+    <MessageCreationDateTime>2020-06-23T14:28:00.7556535+03:00</MessageCreationDateTime>
+    <MessageSchemaVersion>0.1</MessageSchemaVersion>
+    <MessageUniqueID>044a42ab-3439-4873-8c87-2ce87e4b3a4e</MessageUniqueID>
+    <MessageSendingOrganization>
+      <FacilityName>RIRUTA HC</FacilityName>
+      <CountryCode>ke</CountryCode>
+      <FacilityID>755</FacilityID>
+      <DATIMFacilityID />
+      <FacilityTypeCode>FAC</FacilityTypeCode>
+    </MessageSendingOrganization>
+  </MessageHeader>
+  <IndividualReport>
+    <ClientDemographics>
+      <ClientIdentifier>517</ClientIdentifier>
+      <ClientName>
+        <First>Daniel</First>
+        <Middle />
+        <Last>Ochuodho</Last>
+      </ClientName>
+      <ClientDRAWSCode>O2404D13035990</ClientDRAWSCode>
+      <TreatmentFacility>
+        <FacilityName>RIRUTA HC</FacilityName>
+        <CountryCode>ke</CountryCode>
+        <FacilityID>755</FacilityID>
+        <DATIMFacilityID />
+        <FacilityTypeCode>FAC</FacilityTypeCode>
+      </TreatmentFacility>
+      <OtherClientIdentifiers>
+        <Identifier>
+          <IDNumber>IQ-0000DO19980713755523</IDNumber>
+          <IDTypeCode>EMRID</IDTypeCode>
+        </Identifier>
+      </OtherClientIdentifiers>
+      <ClientDateOfBirth>1998-07-14</ClientDateOfBirth>
+      <ClientSexCode>M</ClientSexCode>
+      <ClientOccupationCode>UNK</ClientOccupationCode>
+      <ClientMaritalStatusCode>S</ClientMaritalStatusCode>
+      <phoneNumber>0726947766</phoneNumber>
+    </ClientDemographics>
+    <TrackerCapture>
+      <EntryPointAndTransferStatus>
+        <BaselineAssessmentAndTreatmentInitiation>
+          <PatientBaselineView>
+            <CD4Count />
+            <MUAC />
+            <Weight />
+            <PatientType>261</PatientType>
+            <Height />
+            <ARTInitiationDate>2011-06-09</ARTInitiationDate>
+          </PatientBaselineView>
+        </BaselineAssessmentAndTreatmentInitiation>
+      </EntryPointAndTransferStatus>
+      <ClinicalVisit>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreening />
+        </AllergiesAndPregnancyStatus>
+        <PatientMasterVisit>
+          <VisitDate>2018-07-28</VisitDate>
+          <VisitScheduled>1</VisitScheduled>
+          <DurationOfDrugs>180</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment1>AF2E</ARVDrugForHIVRegiment1>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2018-09-06</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2018-09-13</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2018-09-26</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>122</BPSystolic>
+            <BPDiastolic>68</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>75.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreening />
+        </AllergiesAndPregnancyStatus>
+        <PatientMasterVisit>
+          <VisitDate>2018-10-27</VisitDate>
+          <VisitScheduled>2</VisitScheduled>
+          <DifferentiatedCare>2</DifferentiatedCare>
+          <DurationOfDrugs>90</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment1>AF2E</ARVDrugForHIVRegiment1>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>112</BPSystolic>
+            <BPDiastolic>66</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>70.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreening />
+        </AllergiesAndPregnancyStatus>
+        <Investigations>
+          <PatientLabTracker>
+            <LabName>Viral Load</LabName>
+            <SampleDate>2019-01-26</SampleDate>
+            <Reasons>Routine</Reasons>
+            <ResultValues>0</ResultValues>
+            <ResultUnits>copies/ml</ResultUnits>
+          </PatientLabTracker>
+        </Investigations>
+        <PatientMasterVisit>
+          <VisitDate>2019-01-26</VisitDate>
+          <NextAppointmentDate>2019-04-27</NextAppointmentDate>
+          <VisitScheduled>1</VisitScheduled>
+          <DifferentiatedCare>2</DifferentiatedCare>
+          <DurationOfDrugs>90</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment1>AF2E</ARVDrugForHIVRegiment1>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-02-01</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-02-12</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-02-28</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>121</BPSystolic>
+            <BPDiastolic>66</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>70.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreenigView>
+            <ScreeningValueId>0</ScreeningValueId>
+          </PatientScreenigView>
+          <PatientScreening>
+            <ScreeningValueId>1</ScreeningValueId>
+          </PatientScreening>
+        </AllergiesAndPregnancyStatus>
+        <PatientMasterVisit>
+          <VisitDate>2019-05-10</VisitDate>
+          <NextAppointmentDate>2019-08-09</NextAppointmentDate>
+          <VisitScheduled>2</VisitScheduled>
+          <DifferentiatedCare>2</DifferentiatedCare>
+          <DurationOfDrugs>90</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment1>AF2E</ARVDrugForHIVRegiment1>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-05-13</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-06-03</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-06-06</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-07-19</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-08-08</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-08-15</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-08-16</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>115</BPSystolic>
+            <BPDiastolic>56</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>73.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreenigView>
+            <ScreeningValueId>0</ScreeningValueId>
+          </PatientScreenigView>
+          <PatientScreening>
+            <ScreeningValueId>1</ScreeningValueId>
+          </PatientScreening>
+        </AllergiesAndPregnancyStatus>
+        <PatientMasterVisit>
+          <VisitDate>2019-08-08</VisitDate>
+          <NextAppointmentDate>2020-01-09</NextAppointmentDate>
+          <VisitScheduled>2</VisitScheduled>
+          <DifferentiatedCare>2</DifferentiatedCare>
+          <DurationOfDrugs>360</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment1>AF2E</ARVDrugForHIVRegiment1>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-09-03</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-09-04</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Investigations>
+          <PatientLabTracker>
+            <LabName>Viral Load</LabName>
+            <SampleDate>2019-09-07</SampleDate>
+            <Reasons>Routine VL</Reasons>
+            <ResultValues>0</ResultValues>
+          </PatientLabTracker>
+        </Investigations>
+        <PatientMasterVisit>
+          <VisitDate>2019-09-18</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-09-24</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-11-06</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-11-18</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-12-19</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>120</BPSystolic>
+            <BPDiastolic>68</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>73.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreenigView>
+            <ScreeningValueId>1</ScreeningValueId>
+          </PatientScreenigView>
+          <PatientScreening>
+            <ScreeningValueId>1</ScreeningValueId>
+          </PatientScreening>
+        </AllergiesAndPregnancyStatus>
+        <PatientMasterVisit>
+          <VisitDate>2020-02-03</VisitDate>
+          <NextAppointmentDate>2020-05-04</NextAppointmentDate>
+          <VisitScheduled>2</VisitScheduled>
+          <DifferentiatedCare>1</DifferentiatedCare>
+          <DurationOfDrugs>90</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment2>AS2C</ARVDrugForHIVRegiment2>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2020-03-02</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2020-03-20</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2020-04-28</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2020-06-10</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <Vitals>
+          <PatientVitals>
+            <BPSystolic>122</BPSystolic>
+            <BPDiastolic>62</BPDiastolic>
+            <Muac>0.00</Muac>
+            <Weight>73.00</Weight>
+            <Height>166.00</Height>
+          </PatientVitals>
+          <PatientWHOStage>
+            <WHOStage>Stage1</WHOStage>
+          </PatientWHOStage>
+        </Vitals>
+        <AllergiesAndPregnancyStatus>
+          <PatientScreenigView>
+            <ScreeningValueId>0</ScreeningValueId>
+          </PatientScreenigView>
+          <PatientScreening>
+            <ScreeningValueId>1</ScreeningValueId>
+          </PatientScreening>
+        </AllergiesAndPregnancyStatus>
+        <Investigations>
+          <PatientLabTracker>
+            <LabName>Viral Load</LabName>
+            <SampleDate>2020-06-22</SampleDate>
+            <Reasons>Routine VL</Reasons>
+            <ResultValues />
+          </PatientLabTracker>
+          <PatientLabTracker>
+            <LabName>Viral Load</LabName>
+            <SampleDate>2020-06-22</SampleDate>
+            <Reasons>Routine VL</Reasons>
+            <ResultValues />
+          </PatientLabTracker>
+        </Investigations>
+        <PatientMasterVisit>
+          <VisitDate>2020-06-22</VisitDate>
+          <NextAppointmentDate>2020-07-28</NextAppointmentDate>
+          <VisitScheduled>2</VisitScheduled>
+          <DifferentiatedCare>2</DifferentiatedCare>
+          <DurationOfDrugs>45</DurationOfDrugs>
+          <VisitBy>1</VisitBy>
+        </PatientMasterVisit>
+        <HIVTreatmentAndCTXProphylaxis>
+          <ARVDrugForHIVRegiment2>AS2C</ARVDrugForHIVRegiment2>
+        </HIVTreatmentAndCTXProphylaxis>
+      </ClinicalVisit>
+    </TrackerCapture>
+  </IndividualReport>
+</Container>

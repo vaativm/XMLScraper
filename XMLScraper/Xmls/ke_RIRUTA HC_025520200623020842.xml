@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageHeader>
+    <MessageStatusCode>INITIAL</MessageStatusCode>
+    <MessageCreationDateTime>2020-06-23T14:08:42.2481325+03:00</MessageCreationDateTime>
+    <MessageSchemaVersion>0.1</MessageSchemaVersion>
+    <MessageUniqueID>666999b0-da6e-451a-8fc1-62ddf82d7dfc</MessageUniqueID>
+    <MessageSendingOrganization>
+      <FacilityName>RIRUTA HC</FacilityName>
+      <CountryCode>ke</CountryCode>
+      <FacilityID>755</FacilityID>
+      <DATIMFacilityID />
+      <FacilityTypeCode>FAC</FacilityTypeCode>
+    </MessageSendingOrganization>
+  </MessageHeader>
+  <IndividualReport>
+    <ClientDemographics>
+      <ClientIdentifier>250</ClientIdentifier>
+      <ClientName>
+        <First>Angel</First>
+        <Middle />
+        <Last>Ndunge</Last>
+      </ClientName>
+      <ClientDRAWSCode>N3305A50027243</ClientDRAWSCode>
+      <TreatmentFacility>
+        <FacilityName>RIRUTA HC</FacilityName>
+        <CountryCode>ke</CountryCode>
+        <FacilityID>755</FacilityID>
+        <DATIMFacilityID />
+        <FacilityTypeCode>FAC</FacilityTypeCode>
+      </TreatmentFacility>
+      <OtherClientIdentifiers>
+        <Identifier>
+          <IDNumber>IQ-0000AN19740801755251</IDNumber>
+          <IDTypeCode>EMRID</IDTypeCode>
+        </Identifier>
+      </OtherClientIdentifiers>
+      <ClientDateOfBirth>1974-08-02</ClientDateOfBirth>
+      <ClientSexCode>F</ClientSexCode>
+      <ClientOccupationCode>UNK</ClientOccupationCode>
+      <ClientMaritalStatusCode>M</ClientMaritalStatusCode>
+      <phoneNumber>0710141699</phoneNumber>
+    </ClientDemographics>
+    <TrackerCapture>
+      <EntryPointAndTransferStatus>
+        <BaselineAssessmentAndTreatmentInitiation>
+          <PatientBaselineView>
+            <CD4Count />
+            <MUAC />
+            <Weight />
+            <PatientType>261</PatientType>
+            <Height />
+            <ARTInitiationDate>2011-05-18</ARTInitiationDate>
+          </PatientBaselineView>
+        </BaselineAssessmentAndTreatmentInitiation>
+      </EntryPointAndTransferStatus>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-03-04</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+      <ClinicalVisit>
+        <PatientMasterVisit>
+          <VisitDate>2019-12-19</VisitDate>
+          <VisitScheduled />
+          <VisitBy />
+        </PatientMasterVisit>
+      </ClinicalVisit>
+    </TrackerCapture>
+  </IndividualReport>
+</Container>
